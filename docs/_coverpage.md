@@ -1,7 +1,7 @@
 <!-- _coverpage.md -->
 
 <!-- ![logo](_media/logo.svg) -->
-<img src="_media/logo-pp.svg" alt="Example logo" width="30%"/><small>1.0</small>
+<img src="_media/logo.svg" alt="Example logo" width="30%"/><small>1.0</small>
 
 <!-- # Online Planning Poker <small>1.0</small> -->
 

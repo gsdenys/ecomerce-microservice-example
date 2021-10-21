@@ -1,15 +1,6 @@
-<img src="_media/opp-logo.svg" alt="Planning Poker logo" width="35%"/><small>1.0</small>
+# OpensourceDotComDemos
+Sample example projects referenced for opensource.com articles
 
-<br/>
+This repository contains the sample source codes referenced through my Opensource.com articles. Feel free to download and use them.
 
-Hi,
 
-this is just a git hub site project. All information that you wanna are shared at:
-
-* [https://oppgame.github.io/](https://oppgame.github.io/)
-
-Thanks a lot.
-
-<br/>
-
-_Denys G. Santos_

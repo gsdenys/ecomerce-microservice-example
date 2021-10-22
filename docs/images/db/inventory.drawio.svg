@@ -1,0 +1,78 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="181px" height="191px" viewBox="-0.5 -0.5 181 191" content="&lt;mxfile&gt;&lt;diagram id=&quot;gW6Fruf8lxSuQcj6nrQn&quot; name=&quot;Page-1&quot;&gt;7Zprb9owFIZ/DR875UK4fBxp12plWtVOmrQvk4sPiTVjZ47Dpb9+x8QhQFQpDMpdQiJ+c3KcnOf4lRxo+OFoeq9IEn+TFHjDc+i04d82PM9tug5+GWWWK0GrmwuRYtQGlcILewMr2uuijFFIVwK1lFyzZFUcSCFgoFc0opScrIYNJV+dNSGRndEphZcB4VAJ+8mojnO147VL/QFYFBczu8XzjUgRbBOnMaFysiT5dw0/VFLq/Gg0DYGb4hV1ecq+Nz8H4CS37eZX9ett+PD45yZP9mWTSxaPoEDo3ab28tRjwjNbLybGOItUM/vQelZUEp8/MYeavBqpl2qitAXuOyggQk2YAIWCOx9zTpKUzcNzJWac9slMZrpIVIx6QzYF+pzzNrGIvo/JzNAkH2LyF3sz5jThLBJ4PMC7NTP2FKR4L32SahtRs2q2umNQGqZLPWOreA9yBNqUw7Fnb1q2IeyKaNrhpGwvt2O1eLm1ulYktqWjReoSGx5YchtQ9CsU34WH5dCM8GdcakREc46rmEytqZLJD6Ii0FZIJDNVvjOtsQDCOA8ll4a2kMJk0jKxJzkMi2tfpdZyVEC15VgknZci6OEHixM6n4JGgLcb4tgtx/gx4UqHUqRaYY+ZHICoJ2Bw10Xt1UZt0fo10fofRbZZIfv0uBnbuauSku3G2Jw1bOsLUWI5h3xujDGjFER9Hn5tHksA/A3rb5OVVdk4G+HY+4Jo6MlM0LQCdXGf/885qPowPTDnwmDz2F6akAETUT+/srXWCMG+GmH6/sIMdtoYtdLtoTNaJ+Ht681zAt7eOrS3t7cku/MVD5QV+bY09lZtGOdu7J0K5ERJmuFG58jdfS/0L87Nu1c3/xg37x7azYv3Hedo593aNM7dzl23QvlvRoRm+v33Jadv6PX5X5yhu9Wd29XRd+LorndwS99273XElr7o26unu9WNWKLgt4IU1BiO/jXMfprg8oy9unO7GvtujD04uLFvuw07ZmPv1OZx7sbuVbdkl2Dq9RvgjEwdh+Uv8Xl4+X8G/+4f&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <clipPath id="mx-clip-0-30-30-30-0">
+            <rect x="0" y="30" width="30" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-36-30-144-30-0">
+            <rect x="36" y="30" width="144" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-36-60-144-30-0">
+            <rect x="36" y="60" width="144" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-36-90-144-30-0">
+            <rect x="36" y="90" width="144" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-36-120-144-30-0">
+            <rect x="36" y="120" width="144" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-36-150-144-30-0">
+            <rect x="36" y="150" width="144" height="30"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 0 30 L 0 0 L 180 0 L 180 30" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 30 L 0 190 L 180 190 L 180 30" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 30 L 180 30" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 30 30 L 30 190" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="89.5" y="19.5">
+                inventory
+            </text>
+        </g>
+        <path d="M 0 30 M 180 30 M 180 60 L 0 60" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 30 M 30 30 M 30 60 M 0 60" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-0-30-30-30-0)" text-anchor="middle" font-size="12px">
+            <text x="14.5" y="49.5">
+                PK
+            </text>
+        </g>
+        <path d="M 30 30 M 180 30 M 180 60 M 30 60" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" text-decoration="underline" pointer-events="none" clip-path="url(#mx-clip-36-30-144-30-0)" font-size="12px">
+            <text x="37.5" y="49.5">
+                id
+            </text>
+        </g>
+        <path d="M 0 60 M 180 60 M 180 90 M 0 90" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 60 M 30 60 M 30 90 M 0 90" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 30 60 M 180 60 M 180 90 M 30 90" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-36-60-144-30-0)" font-size="12px">
+            <text x="37.5" y="79.5">
+                product
+            </text>
+        </g>
+        <path d="M 0 90 M 180 90 M 180 120 M 0 120" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 90 M 30 90 M 30 120 M 0 120" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 30 90 M 180 90 M 180 120 M 30 120" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-36-90-144-30-0)" font-size="12px">
+            <text x="37.5" y="109.5">
+                quantity
+            </text>
+        </g>
+        <path d="M 0 120 M 180 120 M 180 150 M 0 150" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 120 M 30 120 M 30 150 M 0 150" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 30 120 M 180 120 M 180 150 M 30 150" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-36-120-144-30-0)" font-size="12px">
+            <text x="37.5" y="139.5">
+                pre_reserved
+            </text>
+        </g>
+        <path d="M 0 150 M 180 150 M 180 180 M 0 180" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 150 M 30 150 M 30 180 M 0 180" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 30 150 M 180 150 M 180 180 M 30 180" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-36-150-144-30-0)" font-size="12px">
+            <text x="37.5" y="169.5">
+                reserved
+            </text>
+        </g>
+    </g>
+</svg>

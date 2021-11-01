@@ -1,0 +1,4 @@
+github.com/codemodus/uidgen v0.1.0 h1:iTmdqcK9NGsELfq28LZyOkH/pirGFXBWebhaVkaqGwo=
+github.com/codemodus/uidgen v0.1.0/go.mod h1:bUbKBvDWC6zE18ZzR2KOqvd40iFYy+gY7a5Qf5Qc1g4=
+github.com/oklog/ulid v1.3.1 h1:EGfNDEx6MqHz8B3uNV6QAib1UR2Lm97sHi3ocA6ESJ4=
+github.com/oklog/ulid v1.3.1/go.mod h1:CirwcVhetQ6Lv90oh/F+FBtV6XMibvdAFo93nm5qn4U=
